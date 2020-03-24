@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6422f57-9b0d-4e47-a9cb-4e1ecd83ca59</dc:identifier>
+        <dc:title>A Conversation Between Dr Ackoff and Dr Deming</dc:title>
+        <dc:creator opf:file-as="Center, Ackoff" opf:role="aut">Ackoff Center</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Ackoff Center</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ackoff Center&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-03-24T23:17:41.188000+00:00" name="calibre:timestamp"/>
+        <meta content="Conversation Between Dr Ackoff and Dr Deming, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide/>
+</package>

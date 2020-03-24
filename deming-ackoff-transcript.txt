@@ -1,0 +1,1144 @@
+INTERVIEWS WITH DR. AKOFF AND DR. DEMING
+TAPES #1A THROUGH #4A
+
+ORIGINALLY TRANSCRIBED FROM TAPE BY:
+THE DAISY WHEEL
+A PROFESSIONAL TAPE TRANSCRIPTION SERVICE
+Silver Spring, Maryland
+(301) 588-1133
+
+CONVERTED TO TEXT BY:
+TONY JACKSON
+https://github.com/tonyaajjackson
+
+
+DR.AKOFF & DR. DEMING - TAPES #1A THROUGH #4A 1
+
+INTERVIEW WITH DR. AKOFF & DR. DEMING 
+BEGIN TAPE #1A
+
+Q:  
+	To begin your discussion, I'd like you to talk about the relevancy of the system and why maybe the knowledge of systems is more important than it used to be.
+
+DR. DEMING: 
+	Well, go ahead.
+
+DR. AKOFF:  
+	Well the emergence of systems thinking is a focus. In the last 25 years, it constitutes a major revolution and a shift from what was previously mechanistic thinking, and it has a number of important consequences. The first is that it derives from the fact that system is a whole which cannot be divided into independent parts.
+    Each part of the system can affect the behavior of the whole, but no part has an independent effect on the whole.
+
+DR. DEMING: 
+	No part has what?
+
+DR. AKOFF:  
+	An independent effect on the whole. And therefore, the performance of the whole is never the sum of the performance of the parts taken separately, but it's the product of their interactions. And therefore, the basic managerial idea introduced by systems thinking is that to manage a system effectively you must focus on the interactions of the parts rather than their behavior taken separately. 
+    The characteristic way of management that we have taught in the Western World is take a complex system, divide it into parts and then try to manage each part as well as possible. And if that's done, the system as a whole will behave well, and that's absolutely false. Because it's possible to improve the performance of each part taken separately and destroy the system at the same time. This is true whether we're talking about education or a corporation.
+    A very simple example would be if you took one each of every make of automobile available in the United States and brought them together and had a group of engineers decide which one had the best engine — perhaps the Rolls Royce — which had the best transmission, which the best alternator. And for each part required for an automobile. found the best one available, if you then instructed the engineers to take those parts off the automobiles and assemble the best possible automobile out of all the best parts, you would not get an automobile.
+
+DR. DEMING: 
+	No, it would not run.
+
+DR. AKOFF:  
+	No. The parts wouldn't fit, and that's the critical part about a fifth (?) system.
+
+DR. DEMING: 
+	They would not work together.
+
+DR. AKOFF:  
+	Good. So it's the working together that's the main contribution to systemic thinking, as opposed to working in parts separately.
+
+(PAUSE)
+
+DR. DEMING: 
+	Yes, so easy it is to observe, to see, to understand, and yet people do not know about it.
+
+DR. AKOFF:  
+	Yes. The... the art of managing interactions is very different indeed than the management of actions, and history requires this transition for effective management. For example, it is estimated, crudely, that at the turn of the century, at about 1900, over 90 percent of the people employed in industry could not do their jobs as well as their boss could. Now, the reason was that the way people got promoted into management in the early part of the century was they could do their jobs better than any of their. peers, so they got moved up. And therefore, they could do their jobs better than their subordinates. And then the best foreman was selected to be a shift supervisor, and the best shift supervisor up to the plant manager and so on. Today, however, it is estimated that 90 percent of the people employed can do their jobs better than their boss can.
+    That requires a fundamental change in the concept of management — it's no longer supervision, but it's leadership. It's how do you get people to work together to get desired objectives, not to tell them how to do what you want them to. You tell them what outcome you want, but not how to get it.
+
+DR. DEMING: 
+	Yes, one must notice customer. I work here, and my work passes along to you. You're my customer. My job is to work with you and with my supplier.
+
+DR. AKOFF:  
+	Yes. Uh, what about the distinction between a customer and a consumer?
+
+DR. DEMING: 
+	Oh, I don't know. I don't make any distinction maybe.
+
+DR. AKOFF:  
+	Well, if I buy you a gift, you're the consumer, and I'm the customer.
+
+DR. DEMING: 
+	Well, all right. Good.
+
+DR. AKOFF:  
+	Well, I... the point, I think, is we have to be concerned about both, and very frequently the customer and the consumer are very different people, so that a manufacturer actually has his products bought perhaps by a wholesaler who doesn't consume the product, but sells it to retailer who doesn't consume the product, and so we have to be concerned not only with customers and consumers, but all the other stakeholders in the system as well. Because the system involves the interaction of all the people who are affected by it, and perhaps the employees are among the most important.
+
+Q:  
+	How would that apply to education? Would that apply to education even more so as to who the consumer [is], or how would the system idea apply to education?
+
+DR. AKOFF:  
+	Well, it would require a fundamental transformation of eduction by a redesign of it. The issues that are currently being argued constitute changes in aspects of the system rather than changes in the fundamental nature of the system itself. The problems with education and what the conflicting parties take for granted — what they agree on, not what they are differing on. For example, most discussions of education assume that the best way to learn a subject is to have it taught to you. That's nonsense. We've all learned our first language without having it taught to us, and we never learn a second language as well through a teacher, and most of what we use professionally we learned on the job, not in school. Most of what we learned in school is either obsolete, or out of date, or wrong. Teaching is a terrible way — being taught - is a terrible way of learning. on the other hand, anybody who has ever taught knows that teaching is a wonderful way to learn, and therefore, if we want people to learn, we have to make them teach.
+    And you have a beautiful example of the inversion in computer assisted instruction where you take a machine and ask a machine to teach a child a subject. Now, how degrading that is to the self-image of a child, that a machine knows more than they do! Now experiments have been done where you do the reverse. You tell the child to teach the machine how to do something. The child can't do that until they learn the subject on their own, and they can learn it on their own a lot faster than they can by having it taught to them. So we have re-examine fundamental assumptions about teaching, about courses — the sequence in which subjects are taught.
+    Among other things, for example, uh, there's a very basic distinction between the various forms of content of the human mind. There's data, information, knowledge, understanding and wisdom. The educational system never makes a distinction between them. And as a result, children come through the system with a great deal of information, very little knowledge, and no understanding, and virtually zero wisdom. How do we design a system which distributes its effort more evenly across these types of content of the human mind? See? information is contained in descriptions, knowledge and  instruction, understanding and explanation, and we don't explain reality to children.
+
+DR. DEMING: 
+	They pass the course by acquiring information.
+    
+DR. AKOFF:  
+	That's right.
+    
+DR. DEMING: 
+	They get their head full of information.
+
+DR AKOFF: Yeah.
+
+DR. DEMING: 
+	Know all the capitals of all the states.
+
+DR. AKOFF:  
+	That's right.
+
+DR. DEMING: 
+	That's not knowledge.
+
+DR. AKOFF:  
+	Absolutely not.
+
+DR. DEMING: 
+	I couldn't give a... - I couldn't care less...
+
+DR. AKOFF:  
+	That's it.
+
+DR. DEMING: 
+	... about such a thing. As Harold Hoteling said one time, "He that does no research has nothing to teach."
+
+DR. AKOFF:  
+	Look what the education system does to the creativity. Every child learns at a very early stage that when they're asked the question in school they must what does the  first ask themselves a question. What answer does the asker expect. That's the way you get through school, by providing people with the answers they expect. Now, the one thing about an answer that somebody else expects is it can't be creative because it's already known.
+    What we ought to be trying to do with children is get them to give us answers that we don't expect to stimulate creativity. We kill it in school. What we produce is a group of people who think in the way we have been thinking for years rather than departing and developing new concepts and new ways of understanding.
+
+DR. DEMING: 
+	Yes, a check block system — which is the right answer, "A," "B" or "C?" Mark it off. That is not teaching, that's... a student learns information. He learns the right answer, and marks it off. The teacher can tabulate, make a distribution of the results of 30 pupils, or 40 or 50 in a flash. That's not teaching, that's not learning.
+
+DR. AKOFF:  
+	That's right. That's right.
+
+DR. DEMING: 
+	I'd rather Johnny would tell me under what circumstances would "A" be the right answer; under what circumstances would it be the wrong answer; the same for “B" and "C."
+
+DR. AKOFF:  
+	Right.
+
+DR. DEMING: 
+	Yeah. But I'd have to read it. I could not turn it in to a computer and get a distribution. I'd have. .. . As a teacher, I'd have to read it.
+
+DR. AKOFF:  
+	Right.
+
+DR. DEMING: 
+	And with a lot of things — most everything — maybe there is no right answer. For example, we learn that two plus three is five, it is on the arithmetic scale, but most of the world, a large part of it, is logarithmic in which two plus three is equal to six.
+
+DR. AKOFF:  
+	Right. And if they're degrees fahrenheit, it's altogether different.
+    There was a very interesting event a couple of years ago involving a professional association that you and I have been associated with — The American Statistical Association. They held a session at one of their annual meetings at which they invited four of whom they considered to be the most prominent living statisticians. It was a plenary session at a national meeting with a great deal of publicity. It turned out that not one of the four people who were invited had ever had a course in statistics.
+
+DR. DEMING: 
+	Yes. I can believe it because there were not courses in staticistics... until fairly recent.
+   
+DR. AKOFF:  
+	Yeah. But we managed to produce very creative statisticians without courses and without teaching them. 
+
+DR. DEMING: 
+	And I went to London to study in 1936. I studied under R. A. Fisher, and Kenon, Egon Pearson — they'd never... never studied statistics. There were no such courses.
+
+DR. AKOFF:  
+	Yeah. Well, the same is true in most fields.
+
+DR. DEMING: 
+	Yeah.
+
+DR. AKOFF:  
+	Uh, that the creative insights come from people who come from outside that aren't harnessed with the preconceptions and assumptions that characterize the field. They, ah, we don't really talk about creativity in education. Ronald Lang, the British psychiatrist, has a marvelous expression. He said, "We kill creativity with love." Our desire to protect children makes us train them not to ask the embarrassing question or give the embarrassing answer, and it's always an embarrassment with people are creative.
+
+DR. AKOFF:  
+	In the Renaissance, when man began to investigate the nature of man and the environment in which man lived, he also invented a way of thinking. He actually copied it from children. If you look at a child, when a child is given something they have never seen before and they're confronted with the need to understand it, a child goes through a three-step process. The first thing they do is take it apart. The second thing they do is try to understand the behavior of each part taken separately, and then they try to aggregate the understanding of the parts into an understanding of the whole. That's analysis. And analysis became the dominate mode of thought in the Western World for almost 400 years. In fact, even today we use analysis and thinking as synonymous terms. Take the thing apart, try to understand the parts separately, and then aggregate them into the whole. That's the way we manage.
+    We take corporations and schools apart into departments or disciplines, and try to run each one, and then to aggregate them into a whole. Now, we discovered some. . . a fundamental shortcoming in that way of thinking. Since the system is a whole that cannot be divided into independent parts, when you do divide it up, when you take an automobile apart, you lose the essential properties of the automobile. If we had an automobile in this room and disassembled it and every part were in the room but it's disassembled, we don't have an automobile. Because the automobile, again, is the interaction of the parts.
+    Now, when you apply analysis to any system, you begin by taking it apart, and therefore you lose all of its essential properties. You cannot explain the behavior of a system by analysis. You can reveal its structure and say how it works, but you can't say why it works the way it does. Now, a simple example is, the British drive on the other side of the street. Their steering wheel is on the right, ours is on the left. Now, I can give you and automobile mechanics all the English and American cars you want and disassemble them from now to doomsday, and you'll never explain why one drives on the right and the other drives on the left because explanation never lies inside of a system, it lies outside.
+
+DR. DEMING: 
+	A System cannot understand itself.
+
+DR. AKOFF:  
+	Right.
+
+DR. DEMING: 
+	... Dr. Baker says in the Ford Company: "The system cannot understand itself." You can learn all about ice and know very little about water.
+
+DR. AKOFF:  
+	Good. And therefore, we had to develop a new way of thinking, and it's exactly the opposite of analysis. In the first step of analysis, you take the thing that you want to understand apart. In the first step of synthesis, you take the thing you want to understand as a part of a larger whole. In the second step of analysis, you explain the behavior of each part taken separately. In the second step of synthesis, you explain the behavior of the containing whole. So if we're trying to explain a university, we have to first explain the education system of which the university is a part. In the third step of analysis, you aggregate your explanation of the parts into an understanding of the whole. In the third step of synthesis, you dis-aggregate the understanding of the whole into an understanding of the parts, so that we explain by identifying their role or function of a system in the larger system of which it's a part.
+
+    We can explain the difference between driving on the right and the left by the function.
+
+[PAUSE TAPE]
+
+Q:  
+	Go back and pick up the third step of analysis.
+
+DR. AKOFF:  
+	The third of synthesis consists of disaggregating the understanding of the containing whole into the role or function of the parts. And the explanation of a behavior of a system lies in its role or function in the larger system of which it's a part.
+    See, it turns out that the knight in shining armor riding down the road in England in Medieval times was concerned about highwaymen coming at him from the opposite direction. He was right-handed, and therefore he rode on the left side of the road so his right hand faced people coming on from the other direction. Now in the United States we didn't have knights in shining armor, so when we designed the automobile, we didn't reproduce the knight driving on the left, we're concerned with people being right-handed, and we put the controls where he could deal with it with his right hand. And so the explanation of the difference lies in the containing system, not within the automobile itself.
+
+DR. DEMING: 
+	Very interesting. Thank you very much. (UNINTELLIGIBLE).
+
+DR. AKOFF:  
+	That's consistent with what you just said. The other... The question of how do you get people to think systematically, I think was just best answered by a vice president of the Bell Telephone Laboratories back in the 1950's when he invented a procedure that has come to be known as "idealized redesign." What he said is, "The only way that we can think creatively about a system is to assume it was destroyed last night — it no longer exists."
+    So the education system in the United States was destroyed last night. Now, if you could whatever you wanted to right now to replace it, what would you do if you were completely unconstrained? His argument was, "If you don't know what you would do when you can do whatever you want, right now, then how can you possibly know what to do when you can't do whatever you want?" That forces you to study the whole instead of the parts taken separately.
+    So in idealized re-design, you design the system as a whole and then derive the property of the parts from the properties of the whole as opposed to analytical design where you start by taking the parts and extracting the properties of the whole from the characteristics of the parts.
+    Now, you in your writing about quality, keep talking about the characteristics of the system as a whole, that unless you get that right, unless the system is right, improving the quality of the parts taken separately will not necessarily improve the quality of the output of the system.
+
+DR. DEMING: 
+	Yes. I try to... I try to say that. I try to teach that.
+
+DR. AKOFF:  
+	Yes. The other thing that you do, which I think is very important, is the systemic concept, is you point out that getting rid of what you don't want is not equivalent to getting what you do want; that improvement has to be directed towards what you want, not away from what you don't want.
+    There is a simple example of that which I used to use with my students. If we were to go over to a television set right now and turn it on, there's a very high probability we'd get a program we do not want — it's almost certainty. It's very easy to get rid of. All we have to do is turn the channel. There's a very high probability we'll get a program we want even less. Getting rid of what you don't want is not any assurance you're gonna get what we do want. When we tried to get rid of alcoholism by the Volstead Act, Prohibition, we got organized crime. Okay? We try to get rid of crime by putting the criminal in a prison, and turns out the prison is a school for criminals. People coming out of prison have a higher probability of creating a crime than they did when they went in.
+    So unless our improvements are directed at what we want, which is a design of what we do if we could do whatever we wanted to, we are very likely to hurt the performance of a system.
+    How important do you think the role of design is in quality?
+
+DR. DEMING: 
+	That's the zero stage — the most important one — the one that should have the greatest effort and should cost the most.
+
+DR. AKOFF:  
+	Yes. Don't you find that many people misinterpret what you have written, and they take the existing system and analytically identify the parts and try to improve the behavior of the parts taken separately?
+
+DR. DEMING: 
+	They've been taught that way, they're educated that way. They don't know anything else.
+
+DR. AKOFF:  
+	A marvelous example which I've heard you refer to — and by the way, this is equally true of the Japanese. The American and the Japanese automotive manufacturers are improving the quality of a dysfunctional device, the automobile. The automobile is a terrible device. What we need to do is redesign it. It is polluting atmosphere, it is more... it is a vehicle which moves at an average of 17 miles an hour but has a capacity of over a hundred a miles an hour. Eighty-seven percent of them carry only one or two people, but they're designed to carry four to six. It's complete nonsense. Improving the quality of the current automobile is foolish; we ought to be redesigning it so that it becomes functional in contemporary society, not in the society of 1920. See, we've spent an awful lot of time improving the quality of things that ought to be destroyed.
+
+DR. DEMING: 
+	Isn't that interesting. So right you are. 
+
+DR. AKOFF:  
+	This is a very good example of it, Ed. Look how stupid this clothing is.
+
+DR. DEMING: 
+	That's a nice lookin' jacket.
+
+DR. AKOFF:  
+	It really...
+
+DR. DEMING: 
+	You have any old ones?
+
+DR. AKOFF:  
+	It really is... it really is dysfunctional, and how uncomfortable. The moment we can, we put on sports clothing. Now, it's hard to take... you can take almost any aspect of our society, we haven't rethought the design of it for many years. And as they become dysfunctional we institutionalize that dysfunctionality. We have to redesign most of our products and not merely improve the quality of the existing product.
+
+DR. DEMING: 
+	No. As my new book will say, you may reduce defects to zero and go out of business.
+
+DR. AKOFF:  
+	That's right, it's exactly right.
+
+DR. DEMING: 
+	Something else has to happen.
+
+DR. AKOFF:  
+	Peter Drucker once said it very nicely. He said, "We spend all our time on trying to do things right, but that's the wrong thing. We ought to be worried about doing the right things." — a very fundamental difference. Okay. One is efficiency and the other effectiveness, and we should be concerned with effectiveness, but we're preoccupied with efficiency.
+
+DR. DEMING: 
+	Great thoughts. Thank you very much.
+
+DR. AKOFF:  
+	Michael Maccabee raised the question about the difference in the way the East and the West thinks. It's interesting to reflect that the concept of a system which only became important in Western thought... and the earliest we can go back is the 1930's in the work with Van Bertalanthi in Germany in biology, but particularly during World War II with the emergency of cybernetics and operations research management science and ultimately system sciences.
+
+DR. DEMING: 
+	Cybernetics, yeah.
+
+DR. AKOFF:  
+	Yeah. But the concept of a system was a dominant concept in the Eastern World for centuries, it goes way back. The I-Ching is all about systems thinking. That doesn't mean, however, that where they were is where we ought to be because the systems revolution involves two things: It involves the concept of system, and it involves the use of science. We had science but not the concept of a system. They had the concept of a system, but not the concept of science.
+
+    What has been happening, however, is they have been absorbing the concept of science faster than we've been absorbing the concept of a system.
+
+DR. DEMING: 
+	Yeah. You're so right, I do believe.
+
+DR. AKOFF: 
+	And I think that's why they're running ahead of us, because they're integrating our concept of science with their concept of a system.
+
+[PAUSE TAPE - TAPE CHANGE]
+END TAPE #1A
+BEGIN TAPE #2A 
+
+DR. AKOFF:  
+	One question that's constantly raised to those of us who think about systems is which system are we talking about? Are you talking a school, or are you talking a city's educational system, the national system, or what? That, that sounds like a very complicated system, but it has a very simple answer — which system. It's always the largest system over which you have control, you have access to. There is no point in designing a system that you can't affect, and therefore you design the largest system you can affect, but that is the beginning not the end. Because once you've designed, from scratch ideally, the system that you can do something about, you then must confront the following question: How can the containing system be modified so as to enable you to improve your design of the system you have just completed? So you enlarge the scope of your design effort.
+    Let me give a very simple example, Ed. There's a marvelous one that was recently in the literature of management. A sixth-level manager at Kodak by the name of Henry Fayette, who was in charge of the ‘corporate computing center, one of three computing centers at Kodak — there are two others which are much larger than his — took his center and assumed it was destroyed last night ana redesigned it from scratch within a system that was unchanged. When he completed that and implemented it, he got remarkable improvement and effectiveness, and it got a lot of attention.
+    So that he sat down, and the next exercise he went through was if he could change Kodak so as to enable him to do even better, what would he do? And his answer was he would combine the three computing centers. The heads of the other two computing centers were impressed by his argument. They formed a joint team and assumed that all computing at Kodak were destroyed last night and redesigned it from scratch and came out with a single computing center. They proposed this to management, and jit was accepted.
+    Now, the telecommunications unit at corporate headquarters watched all this, thought it was very interesting. And so they went through the same exercise and ultimately wound up combining three telecommunication units into one. Then the telecommunication units and the computing units formed a joint team to talk about the idealized redesign of their joint effort. They made a proposal to the corporation that it be unified into a corporate technology department which was done. That department now did a study of... if they could start over from scratch, how much of their activity would be done within the corporation and how much outside. And much to their surprise, they found out the skills required to improve their activity lay more outside the corporation than inside, and that led them to form the joint venture with IBM to do all the computing for Eastman Kodak and Digital Computing to do all the telecommunications for the company. Now,there's a successive enlargement of the system and its design incorporating larger systems over which they had no control, put which they could influence by the power of the ideas. Have you experienced this kind of thing as well?
+
+DR. DEMING: 
+	[Pause] Well, I'd have to be smart enough to see it.
+
+DR. AKOFF:  
+	Well, the, uh... If we look at a corporation as a whole and ask about its function in the larger system of which it's a part, it seems to me that when we look at a corporation systemically, we have learned something very important about it that we didn't know before. A corporation does only two things: It consumes resources, and it makes consumption possible — the only two things it does. It consumes a very variety of resources — human labor, money, materials, and so on... -
+
+DR. DEMING: 
+	...fuel, energy.
+
+DR. AKOFF:  
+	... energy, but it makes consumption possible by producing services or goods that others can consume and by providing the financial resources that enable people to acquire them. If we take the consumption that a corporation makes possible and subtract from it its own consumption, that difference is wealth. Therefore, from society's point of view, the corporation has two functions, the one of which is perfectly obvious — to create wealth. We all know that. But what we haven't paid attention to is the other equally critical function, which is to distribute wealth.
+    The corporation distributes wealth in the only way known to man of simultaneously producing it through productive labor. Every other way we have of distributing wealth consumes it. It's only through productive work that we make the wealth which can distributed through employment. Our corporations do not take seriously their social responsibility for the distribution of wealth through employment, and that's apparent when you pick up the newspaper any day and see all these incredible cuts in people employed. Their obligation should be to maximize productive employment, not to minimize it. Do you feel that the Japanese are more concerned with their obligation to their employees to provide them with productive employment than American managers are?
+
+DR. DEMING: 
+	How far more.
+
+DR. AKOFF:  
+	How does it get manifested, Ed?
+
+DR. DEMING: 
+	Beg pardon?
+
+DR. AKOFF:  
+	How is it reflected in what they do?
+
+DR. DEMING: 
+	The company owes obligations to its employees.
+
+DR. AKOFF:  
+	Is this overtly expressed, or is it just a part of the culture that's automatically assumed?
+
+DR. DEMING: 
+	I think it's built in.
+
+DR. AKOFF:  
+	Built in. It's interesting that our most common measure of performance is the return on investment, and investment is measured by money — capital employed or value of assets. But we use our money much more effectively than we use human labor. The best estimates are that we only use about one-third of the capacity of the people we employ. If we use our other resources that poorly, we'd be out of business. What would happen if business starts to operate itself so as to maximize the return on labor instead of the return on investment, because that's our most value esource. If you have money and no people, you can't do anything. But if you have people and no money, you can still do a lot.
+    What would you say are the principal conceptual differences between good Japanese management and average American management?
+
+DR. DEMING: 
+	I think Japanese management understands the system as win-win — cooperation — win-win. After all, do we want win-lose? Would anybody wish to do business with a loser? Nobody'd wish to do business with a loser unless you want to get in. . .get in and out and make’a quick profit - the kind that oughta be in jail.
+
+DR. AKOFF:  
+	You're saying that management and labor do not see themselves as adversaries?
+
+DR. DEMING: 
+	Oh, no. What happens when the Japanese company gets into trouble, the economy goes down? First step, reduce dividends. Second step, cut the dividends out. The third step, those at the top echelons of management, which are not very high incidentally, take a cut. The next step, anybody in management above the average, that was above average goes to average. As a last resort,, a last resort, people in the work force, and that means everybody, that could retire please retire. Further than that, beyond that, take a cut in pay but continue to work.
+    A man named Shinoskei — he worked for me in 1951 in Tokyo. He was a graduate of the University of Tokyo — could compute a standard deviation. Later was in a management of Kawasaki Steel Company. In 1974, he took me out to Chiba Peninsula to Kawasaki Steel Company. The steel business was down the world over. Everybody was at work, at reduced pay — lots of work to do — painting, lawns, trees. Two hundred and fifty people, men, were building a blast furnace, a new one, that turned out the uniformity and purity that 14 months later put U.S. Steel out of business.. Everybody was at work. There's lots to do. They were at reduced pay. Their pay went back later. It's just the reverse of what we do here. First thing, turn out people here. With the Japanese, the last thing they do... they don't do that.
+
+DR. AKOFF:  
+	A great deal is being made today of the difference between executive salary and the worker's salary in Japan as opposed to the United States. You've seen those figures, of course?
+
+DR. DEMING: 
+	About four to one.
+
+DR. AKOFF:  
+	Four to one,
+
+DR. DEMING: 
+	At the highest.
+
+DR. AKOFF:  
+	Why is that the Japanese do not measure their own esteem? Their self-esteem is not so correlated with compensation as it is here?
+
+DR. DEMING: 
+	Your esteem comes from your contribution to the company, and he that becomes competitive would be shunned. He'd leave the company, he could not... he could not stand it. They're there to support the company, everybody.
+
+DR. AKOFF:  
+	Is this why they made fun of Iocacca when he was over there extracting this incredible salary out of a company that's losing money and not being ashamed? Is that their perception?
+
+DR. DEMING: 
+	I, I'm... I don't read that much. I don't know.
+
+DR. AKOFF:  
+	The other day, The Wall Street Journal had an article that the chief executive of the Coca Cola Company was just given a bonus — 81 million dollars worth of stock! That's not conceivable in Japan, is it?
+
+DR. DEMING: 
+	No. It couldn't happen. It could not happen there.
+
+DR. AKOFF:  
+	What do you think has to be done to change it here?
+
+DR. DEMING: 
+	Understand the system. This is not new. I taught it in Japan in 1950, and the whole world knows the results. I did not export to Japan American methods. Tf took to them something new that the Western World has still yet learned. It's not difficult, no secret.
+
+DR. AKOFF:  
+	Do you think we have to attack the business school?
+
+DR. DEMING: 
+	What's a school of business for? What a school of business does is to teach people, teach the students, how business is conducted today, how to get a job in the system, in the style of management that persists today. What the school of business ought to teach is transformation, but who there could teach it? Who would know?
+
+DR. AKOFF:  
+	Well, it seems to me that the business school does two things primarily. The first is it provides the students with a vocabulary that enables them to discuss authoritatively subjects which they do not understand. Okay? The second thing it does is it provides with principles of behavior which have demonstrated their ability to withstand any amount of dis-confirming evidence. And equipped with those two things, they go out into the world and reproduce the errors of their predecessors.
+    The critique... The business school is a laughing stock in Japan. There was a recent quote of the President of Honda who said he didn't worry about American competition as long as most managers in the United States were graduates of business schools.
+
+DR. DEMING: 
+	Well, I don't know if graduates of business schools here really become managers. Let's hope not.
+
+DR. AKOFF:  
+	Are we going to have to change management first and then the business school, or the business school first and through that, management. Or we work on both simultaneously?
+
+DR. DEMING: 
+	You can't change a school of business until somebody there understands what to do. How could they know? How could anybody know what to do? How could anybody know what's wrong? How could he?
+
+DR. AKOFF:  
+	How many universities that you are aware of have programs now in teaching quality management?
+
+DR. DEMING: 
+	I don't know what quality management is. Quality is a product, not a method.
+
+DR. AKOFF:  
+	How do you. ... Well... .
+
+DR. DEMING: 
+	Put the question another way.
+
+DR. AKOFF:  
+	By quality management I mean how do you manage in such a way as to increase the quality of the output of an organization? I don't mean the management of quality, I mean the management of an organization to produce quality.
+
+DR. DEMING: 
+	Well, you asked me how many? I don't... I know one — Fordham University.
+
+DR. AKOFF:  
+	What about Japan?
+
+DR. DEMING: 
+	Well, they don't have schools of business. Then where do their managers get trained?
+
+DR. DEMING: 
+	What happens in Japan to somebody that is picked for a company from the university. He spends from three to seven years on the job working all kinds of work from the lowest. He learns the company from the bottom for years. He has all kinds of jobs — any but foreman. The foreman is there by seniority. He does all kinds of work. I asked the manager, a manager, in Prema Meat Company what he did the first three years when he joined the company. "It was not three years, it was seven years," he said, "he drove a truck to deliver meat." He learned what it is to have a truck break down at 4:30 in the morning. He learned what it is to approach a master chef with the wrong meat. "We don't have it today. Would this serve your purpose?" There's one breed of cats that has no fear, that knows not the word fear, and that's a master chef. He learned those things. He learned the company from bottom.
+    What do our people. 1 management do? They go in at the top. The lowest level of management is a supervisor. How many know the work? Almost none.
+    A student of mine at NYU said she'd had a number of jobs. In only one did her boss understand her work. In other jobs her boss did not understand her work, nor his own. They just worked there, draw pay. What a life!
+
+DR. AKOFF:  
+	Do you think that the increasing awareness of the role of quality in American management is producing a profound transformation yet?
+
+DR. DEMING: 
+	The role of. .. ?
+
+DR. AKOFF:  
+	The focus on quality, is it producing a fundamental change in the way managers are thinking?
+
+DR. DEMING: 
+	No. It cannot! Where would they learn?
+
+DR. AKOFF:  
+	What's the source of your hope then, Ed?
+
+DR. DEMING: 
+	I enjoy my work.
+
+DR. AKOFF:  
+	Not your students?
+
+DR. DEMING: 
+	Beg pardon?
+
+DR. AKOFF:  
+	Not in your students?
+
+DR. DEMING: 
+	I do some teaching, yes.
+
+DR. AKOFF:  
+	Do you feel that your students...
+
+DR. DEMING: 
+	I have a social obligation. A lot of my time goes for social obligations.
+
+DR. AKOFF:  
+	To what extent do you think that your students will be able to effectively propagate the ideas?
+
+DR. DEMING: 
+	JI think they understand. I think they get something. I can tell from the papers they write, and I read their papers not to grade them, but to see how I am doing. Where am I failing? Where do I need to bolster up, and I'm looking for special causes. Is there anyone in need of special help? I'11 try to see that he gets it. Is there somebody in the class — This is difficult with a hundred and fifty. At Columbia University, I have four hundred. Is there anyone in the class that would give. receive benefits from extra work? I find them, now and then, [and] give them extra work.
+    One woman, for example, I put on the study of the theory of extreme values. Fascinating, and very important economically.
+
+DR. AKOFF:  
+	I have a lot of fun redesigning university education for many years and trying to use systemic concepts and in challenging the fundamental assumptions that underly the current system.
+
+DR. DEMING: 
+	Well, you had the privilege to redesign a school of business.
+
+DR. AKOFF:  
+	Well, we had a lot of problems and opposition. The elimination of entrance requirements and the use only of exit requirements was felt to be very threatening to a university because... See, what we discovered that a university pretends that its principal function is to educate students, but it's not. The principal function of the university is to provide the faculty with the quality of work life they want. Teaching is a price they've got to pay, and like any price, they try to minimize it. The problem is how do you convert a university so it's really concerned with education, not teaching, but education.
+    And as you just pointed out, in Japan apprenticeship is still the best way to learn any practice.
+
+DR. DEMING: 
+	It's a way to learn a skill, practice, yes.
+
+DR. AKOFF:  
+	Yes. So we have to combine. ...
+
+DR. DEMING: 
+	It's not the way to acquire knowledge.
+
+DR. AKOFF:  
+	No. So we have to combine the two.
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	Currently, the university does only one half and not the other, and it's being done by people who are not capable of practicing themselves, so there's no integration of the knowledge and the practice.
+
+DR. DEMING: 
+	So right you are.
+
+DR. AKOFF:  
+	What you've been able to do at NYU is bring your practice into the university.
+
+DR. DEMING: 
+	You mean I teach there, yes.
+
+DR. AKOFF:  
+	Yeah. But you're teaching is based on your practice.
+
+DR. DEMING: 
+	Based on knowledge — knowledge of living, knowledge about a system.
+
+DR. AKOFF:  
+	What measures do you use in your own thinking about performance of a corporation for example? How do you evaluate a corporation's behavior?
+
+DR. DEMING: 
+	I do not. I don't try it. I've never thought about it — out of my line. You cannot measure performance of anything. Pay for performance is nonsense.
+
+DR. AKOFF:  
+	What should you pay for?
+
+DR. DEMING: 
+	Knowledge. Market value comes into the picture.
+
+DR. AKOFF:  
+	See, it's interesting you mention market value. The normal way of compensating an executive is for his performance in the past. It's last year's performance that determines his compensation today. But if you go out to buy a company, you never buy its past, you buy its future.
+
+DR. DEMING: 
+	So right.
+
+DR. AKOFF:  
+	Yeah.
+
+DR. DEMING: 
+	An investment is prediction.
+
+DR. AKOFF:  
+	Exactly. Why don't we compensate people for the effect they have on the future instead of what they did...
+
+DR. DEMING: 
+	Prediction of what they're able to do
+
+DR. AKOFF:  
+	Is that what you would. . .
+
+DR. DEMING: 
+	Who would know? Who would know?
+
+DR. AKOFF:  
+	Well, we do know, you know, one way or the other, when we buy something.
+
+DR. DEMING: 
+	You mean you think you know. You make a judgment.
+
+DR. AKOFF:  
+	Yeah. But we're not always wrong. You evaluate... whenever you buy something, you determine its future value.
+
+DR. DEMING: 
+	Right you are.
+
+DR. AKOFF:  
+	And we make mistakes occasionally.
+
+DR. DEMING: 
+	So very important what you're saying is.
+
+DR. AKOFF:  
+	Now, if I evaluate a manager by the change in the value of the organization that he manages over time, that's really the amount of capability that he has embedded in the institution. Now, to be sure, we can't measure very precisely, but isn't it better to measure imprecisely the right thing than to measure precisely the wrong one?
+
+DR. DEMING: 
+	I would say so. Yeah.
+
+PAUSE TAPE - CHANGE TAPE
+END TAPE #2A
+BEGIN TAPE #3A
+
+DR. AKOFF:  
+	If we pull together a couple of the ideas that we have been tossing back and forth about education and about work, you can't help, I think, but become aware of what might be thought of as the greatest sin of analytical thinking. It goes back to the Renaissance where for the first time in the history of man we analyzed human activity and divided it into three categories — work, play, and learning. We then developed institutions for each of them taken separately, so that you have a school where you're supposed to learn but not do anything useful, and certainly not have fun. You have things like country clubs or baseball stadiums where you're supposed to have fun but not do anything useful or learn anything. And you have a place of work where you're supposed to get something done, but not learn anything or have any fun. Then we had the usual analytical problem. We have three kinds of institutions that we couldn't get together. What we're beginning to become aware of, it seems to me, that none of these things can be accomplished effectively taken alone, that we need a re-integration of work, play and learning.
+    And some interesting things are happening. Last year for the first time, if the numbers are correct, corporations in the United States spent more on education than all the universities and colleges put together. They are becoming major educational institutions, for good or bad.
+
+DR. DEMING: 
+	Are they sending students to university?
+
+DR. AKOFF:  
+	No. I'm talking about in-house education.
+
+DR. DEMING: 
+	In-house.
+
+DR. AKOFF:  
+	In-house. Some corporations, like IBM, are said to spend 20 percent of all their compensation for time spent in a classroom. So the distinction between work and learning is beginning to break down.
+
+    Now, the quality of work life movement, on the other hand, is trying to break down the distinction between work and play. How do you make work fun.
+
+DR. DEMING: 
+	Easy. When one understands who depends on me, then I may take joy in my work.
+
+DR. AKOFF:  
+	Yeah.
+
+DR. DEMING: 
+	I must know my customer. Whom am I working for? What's a good job? What helps him? If I understand that and we understand each other, then I may take joy in my work.
+
+DR. AKOFF:  
+	Yeah. If there isn't that joy in work, you won't get productivity, and you won't get quality.
+
+DR. DEMING: 
+	You won't have fun either.
+
+DR. AKOFF:  
+	Nope. The, uh... One other aspect of that division of life into these three categories ig we then took each one of these categories and divided them up into sub-categories. So that probably the worst and most harmful myth propagated by the educational system is that there are such things as physical problems, chemical problems, biological problems, political problems, economic problems, and so on, and there are no such things. Those adjectives in front of the word problem tell us absolutely nothing about the problem. What they tell us about is the point of view of the person looking at the problem.
+    I had an experience a little while back, Ed, I think you might be interested in. My group and myself do a lot of work in a urban, black ghetto in Philadelphia called Mantua. it's an area that began a self-development effort about 20 years ago and has done remarkable things to itself. We have regular meetings in my office of the leaders of the community and a group of academics and practitioners who are available to the community as a resource for the community to use as it sees fit.
+    We were having a meeting one day when somebody from the community broke in with a piece of news that stopped the meeting dead. It was an 83-year-old woman who lived in the neighborhood who had organized what we called the “geriatric set." She had taken all the retired people and put them into a group. She had opened an infant care center so that unwed mothers could go back to school or go to work — day care centers for children. They cleared empty lots and made them available for recreational purposes — they were doing all sorts of good in the neighborhood.
+    We were able to do one thing for that woman ‘indirectly. That neighborhood, when we started, had no health services. We got the University of Pennsylvania Hospital to open a clinic, a free clinic, in the neighborhood. She had a bad heart, and so she was able to get a monthly checkup of her heart condition. That morning she had gone to the clinic for a checkup. They told her she was fine. She returned home which was on the fourth floor of an old, converted house. On the third flight of stairs, she had had a heart attack and died. That was the news that was brought to us. There was a silence in the room.
+    The Professor of Community Medicine was the first one to speak up. He said, "I've been telling you we don't have enough doctors! If we had more doctors in the clinic, we'd be able to make house calls and enid/rould have happened." There was silence in the room.
+    The economist said to the Professor of Community Medicine, "Sam," he said, "there are plenty of doctors. The trouble is they're private practitioners, and she couldn't afford one. If she could, they would have come to her. The problem is she doesn't get enough welfare and enough medical benefits." Silence.
+    The young professor of architecture who was there said, "Why don't we make 'em put elevators in all those buildings?"
+    And finally the Professor of Social Work, a woman in the room, spoke up. She shook her head, and she said, "What a pity. None of you know anything about that woman. Don't you know that she was married and had a son who went to the University of Pennsylvania Law School and graduated with distinction? He is a senior partner in one of the largest law firms in Philadelphia. He's married, with two children, and lives in a beautiful home out in the suburbs which happens to be a bungalow. And if she weren't alienated from her son, she'd have all the money she needs and no steps to climb."
+    What kind of a problem was it, Ed? Economic, medical, architectural or social work? But we teach kids, the first thing they do is throw a problem into a category. That's the most anti-systemic thing you can do. Ina corporation, there's no such thing as a marketing problem, or a production problem, or a financial problem. Those are only ways of looking at the problem. The problem is a product of interactions within the system, and we have to look at them across the board. Do the Japanese do that?
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	We don't, you know. A production manager who observes that the productivity of a plant has gone down calls this a production problem.
+
+DR. DEMING: 
+	Well, it had to go up or down; it can't be the same one day as another.
+
+DR. AKOFF:  
+	No.
+
+DR. DEMING: 
+	Unless the figures were forced...
+
+DR. AKOFF:  
+	But if he recognized the behavior of the system as symptomatic, he identifies it immediately as a production problem, not a problem, but a production problem. And that means he will try to solve it by manipulating the variables under his control, but the best solution may lie somewhere else.
+
+DR. DEMING: 
+	Yes. Yes.
+
+DR. AKOFF:  
+	Okay.
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	We have to reorganize universities so they're not divided into disciplinary departments. That's destructive of systemic thinking. It really does tremendous harm.
+    One other aspect of analytic thinking, it seems to me, was the Industrial Revolution began in this country about a hundred years after it did in Europe. In Europe it's usually dated back to the middle 1700's in England, but we were still pioneering and pushing back the frontier, and we didn't really start to industrialize until about a hundred years later. Despite that, we created the first business school in the world; it was the Wharton School created in 1881 by a blacksmith for the purpose of promoting competent management for entrepreneurs who were gonna start small businesses. When that was done, we had to develop a concept of what it is we were going to teach about — What is an enterprise?
+    Now, it's fascinating to see what we did. Remember that at the turn of the century we still believed in the view of the world that Newton had developed, and Newton's concept of the world was that it was a machine, literally a machine. He said the world is a hermetically sealed clock; it's a mechanism which operates with a regularity dictated by the causal laws of nature and its internal structure. That's what he said. It tells time and it has no environment — it's a closed system. And he said something else. He said it's a machine created by God to do God's work. He saw the world as an instrument for the service of God's will, and we are here to serve God's purposes is what Newton preached.
+    And when we started to talk about an enterprise, we looked at it exactly the way that Newton looked at the world. The enterprise was a machine created by its god, the owner, to do his work, and the worker was a replaceable machine part. Okay?
+    The owner was a visible power that had virtually no constraints imposed on him by government or anybody else. He could hire who he wanted to, when he wanted to, pay them what he wanted to, and so on. That concept went through a transformation after World War I for a very important reason. The American economy grew so rapidly that even if all the profit the corporations were making were reinvested in then, they would not be able to grow as rapidly as was possible. Therefore, the fundamental problem that confronted American management in the 1920's was: Do we constrain growth and retain control, or do we encourage growth and sacrifice control in order to get the financing necessary to get the growth. In other words, do we stay private or go public? And the 1920's was the major period in which corporations converted from private ownership to public ownership.
+    What happened? God disappeared — a very present fundamental change. God was no longer, and powerful. He became an abstract spirit — two hundred and fifty thousand shareholders out there. Now, there's a aifficulty in communication between the ordinary worker and that abstract spirit. Peter Drucker recognized that Was a problem we had confronted almost 2,000 years ago when God disappeared in the Western World, and he said industry did exactly what the Western World did. It created an institution whose function it was to communicate between man and God, and he called that institution management. And management knew the will of god, the owners, the shareholders, exactly the way that the clergy knows the will of God, by revelation, because they sure don't know it any other way.
+    That produced a complete transformation in our way we thought about corporations. We began to think of them of organisms instead of mechanisms. As an organism, they had purposes of their own — survival and growth. And the whole language that we talked about corporations in became biological instead of mechanical. The most revealing one is what do you call the CEO of a corporation? He's the head. See a machine doesn't have a head, but a body does. We began to talk about "cancerous growths," and about all the concepts from biology transformed in as we talked about it as an organism.
+    Now, what happened in World War II was a further transformation from thinking of the corporation as an organism to looking at it as a social system. That was a major transformation which had the following important significance it seems to me: When we looked at a corporation's machine, it had no purpose of its own. No machine has a purpose. It has a function — it serves its owner. It's function was to produce a profit for its owner. So when Milton Friedman, who is still back in the 19th century, writes that "the only legitimate business of business is business," he means that the only legitimate function of a business is to produce a profit.
+    But when we began to think of a corporation as an organism instead of a mechanism, it began to have a purpose of its own — survival and growth. And Peter Drucker asked the question marvelously: "what happened to profit?" And his answer was incredible. "Profit is to a corporation what oxygen is to a human being — necessary for its existence, not the reason for it." It's a means not an end. The end is survival and growth.
+    Now, when we began to look at a corporation as a social system, interestingly, the same kind of transformation is required. What happens to survival and growth?
+    And the answer is they begin [to be] seen as means rather than as ends. The end, the appropriate end of a social system is development, not growth. And our society doesn't yet understand the distinction between them. You can develop without growing, and you can grow without developing. A rubbish heap grows, it doesn't develop. Ed, you're still developing, but you're not growing any more.
+
+DR. AKOFF:  
+	And I, I've lost two inches in height in the last 10 years. I hope I'm still developing, but I sure as the devil not growing. What is development?
+    It seems to me that's one of the most important concepts for a Western World to get to understand. J. Pierpont Morgan and John Paul Gettys are not models of development, they're models of growth. Because the measure of growth is standard of living, but the measure of development is quality of life. Because development, to develop is to increase your ability and desire to satisfy your own needs and desires and those of others. Development jis what the Spaniards call “capacitation" — it's an increase in ability, in competence — and growth is an increase in resources.
+    But Robinson Crusoe was a very developed man because he built a high-quality of life with very little resources. We have other people who are loaded with resources that have a very poor quality of life. And one of the awakenings, it seems to me, that's occurring in the Western World is a realization that continuous increase in the standard of living frequently involves decreases in the quality of life. And so improvement in the standard of living may mean reduced development — we are undeveloping instead of developing.
+    The other interesting aspect of it is that growth is primarily an economic concept. Development isn't economic at all; it's an aesthetic concept. We are finally catching up in the Western World with aesthetics, which is the one dimension of progress we can't claim to have progressed in. In science we've made progress, nobody would deny that. In economics we've made progress.
+
+DR. DEMING: 
+	Oh, really?
+
+DR. AKOFF:  
+	Yeah. We have more resources today than the Ancient Greeks had.
+
+DR. DEMING: 
+	Oh, I thought you meant the study of economics.
+
+DR. AKOFF:  
+	No. No. No. No. Oh, God, no! Of course, not. You could argue in ethics, it's questionable, but people would say we have made some ethical progress. But who would argue we've made esthetic progress, that we can either produce or appreciate beauty in art any more than the Ancient Greeks did?
+    What we have is a four-horse wagon, with three horses running and one refusing to move. And if we're gonna start developing, we have to start to pay attention to the esthetic aspects of life and take the focus off of science and economics. That doesn't mean we stop developing scientifically and economically, but we have to start thinking about the contribution of esthetics in particular and ethics, secondarily, to human development. Our culture is completely focused on science and economics as the two major disciplines.
+    Do you think economics is a science?
+
+DR. DEMING: 
+	Don't know. Could be.
+
+DR. AKOFF:  
+	It could be? To me, it looks like it's politics in disguise. It looks to me, frequently, as the only absolutely pure abstract science, even more abstract than logic. It has less contact with reality than even logic does. It talks about a model of reality which has no contact with reality. But worst of all, it acts as though there are such things. . . there is such a thing as an economy. There isn't any such thing as an economy; it's an aspect of a system that cannot operate independently of the other aspects of the system. But the economist knows absolutely nothing about anything other than economics, and therefore he can't know anything about the economy. My economic friends resent that statement very badly.
+    Do you have trouble with economists?
+
+DR. DEMING: 
+	No. I ignore them.
+
+DR. AKOFF:  
+	[Laughing]
+
+DR. DEMING: 
+	I have my own thoughts.
+
+DR. AKOFF:  
+	What is the role of the economist in Japan in contrast to the economist in the United States who is so powerful.
+
+DR. DEMING: 
+	I don't believe I could talk on that. In this country, in the Western World economists have taught us that competition is a way of life — competition solves problems. In Japan — I can speak to it after all — it's cooperation. We may learn, sometime, whether to use cooperation not competition. Actually, we do not believe in competition. We say that we do but we don't.
+
+DR. AKOFF:  
+	Yes.
+
+DR. DEMING: 
+	If one automotive company in Detroit were to ascend by some means and dominate the market, they'd be broken ban, smashed to pieces and sold off. If. .. if through competition they ascended, were to ascend to a height by which they dominate the market, they'd be dismembered and sold off. We say we believe in competition but we don't. It's all right as long as it's equal — level playing fields. When somebody gets ahead, no. If anyone wants to see a [sic] example of what competition can do, look at our airlines. Could our service be any worse? Could it be worse? Wait a month.
+
+DR. AKOFF:  
+	Well, let me give you a little different view of competition.
+
+DR. DEMING: 
+	That's what you get with competition.
+
+DR. AKOFF:  
+	Okay. Let me give you a slightly different view of competition. I'm interested in the difference between cooperation, competition and conflict. We have a clearer idea of what cooperation is. If my presence in your environment increases the value of your environment, that's cooperation. If my presence in your environment decreases the value of your environment, that's conflict. But competition is not conflict.
+
+DR. DEMING: 
+	No.
+
+DR. AKOFF:  
+	A tennis match is competitive, and it's interesting to analyze it because it has both cooperation and conflict. With respect to winning, we're in conflict because only one of us can win. But with respect to recreation, we're cooperating. Competition is conflict in the service of cooperation. Now, what you have been describing is what started as competition but lost the cooperative objective and got converted into conflict. See? If we are both trying to win and the more intensely we compete in order to win, the more fun we have, then the conflict is serving our joint objective which is recreation in this case.
+    A theory in economics which doesn't work was that a competition between two automotive companies which is conflict will serve effectively the interest of the consumer. It was conflict embedded in cooperation. What's wrong with is it's not serving the interests of the consumer, and so it's conflict, not competition. To me, that distinction is very important.
+
+DR. DEMING: 
+	Competitors, instead of trying to get share of market from each other, should try to expand the market.
+
+DR. AKOFF:  
+	Yes.
+
+DR. DEMING: 
+	And both win.
+
+DR. AKOFF:  
+	Right. They have to have a joint objective with respect to which their conflict is productive.
+    See? Uh, you know, the work that was done on the genetic code, the book The Double Helix that Watson wrote? Well, it's a marvelous story of scientific competition where a number of different groups doing research in genetics were constantly stimulating each other and pushing each other.
+
+DR. DEMING: 
+	And trying to get ahead?
+
+DR. AKOFF:  
+	Trying to get ahead... But as a result of that conflict between them, they accelerated the rate at which we came to understand the genetic code tremendously, and that was their cooperative objective. See? So I don't like to think of competition as necessarily bad; I like to think of conflict as bad. But if I can embed conflict in a cooperative effort... If I can get the General Motors, Ford, and Chrysler to be in conflict with respect to serving the consumer's interests, that would be competition. The problem is they're not doing that now. They're serving their own interest, not the consumer's.
+    You remember that conference held in 1950, uh, no in 1947, at the University of Pennsylvania on measurement of consumer interest?
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	You gave a paper there. In 1947, we were talking about how to make corporations more effectively serve the interests of the consumer, and we said that one ofthe ways of doing that was make them compete for the... the satisfaction of the consumer, But that's not what they're doing now; they're competing to influence the consumer without satisfying him.
+
+DR. DEMING: 
+	Well, the consumer does not generate anything. He has only what you and your competitor have led him to expect; he has nothing else. The consumer never generated a thought. No consumer asked for electric lights. No consumer asked for photography. No consumer asked for a telegraph. No consumer asked for a telephone nor for an automobile, nor for pneumatic tires, nor for integrated circuits. No customer asked for a pocket radio.
+
+DR. AKOFF:  
+	Is it true that nobody asked for a cure for cancer?
+
+DR. DEMING: 
+	[Pause] No patient asked for the diagnostic apparatus and procedures that exist today.
+
+DR. AKOFF:  
+	No, but what you're saying, it seems to me, is that the mechanical side, the physical sides of things, is not what the consumer asked for. He doesn't ask for a computer, that's certainly true.
+
+DR. DEMING: 
+	He never asked for anything!
+
+DR. AKOFF:  
+	Yes. He demands more rapid computation.
+
+DR. DEMING: 
+	He's a rapid learner, if that's what they mean, but he generates nothing.
+
+DR. AKOFF:  
+	He generates demands for functions, not for objects.
+
+DR. DEMING: 
+	He does not generate it. He takes what he has. He has only what you and your competitor can offer him.
+
+DR. AKOFF:  
+	Uhm-hum.
+
+DR. DEMING: 
+	He's a rapid learner. You can distinguish between the two. All we have has come from the producer, never from the consumer.
+
+DR. AKOFF:  
+	Uhm-hum. Uh, do you think this is a distinction between types of people, or is this a distinction of function within a person?
+
+END TAPE #3A
+BEING TAPE #3B
+
+DR. DEMING: 
+	I don't know what it is. But what I say is true, I believe.
+
+DR. ACKOFF:
+    Yeah, but don’t you believe every producer is a consumer?
+    
+DR: DEMING:
+    Has to consume something. Oxygen.
+
+DR. ACKOFF:
+    Isn't it out of his role as a consumer that he identifies functions which he is going to try to satisfy as a producer? For example, do you think...
+
+DR: DEMING:
+    He'd better try to satisfy a customer. Make a customer happy. Entice him to buy it.
+
+DR. ACKOFF:
+    Do you think doctors would worry about geriatrics if they didn't feel they would ever get old?
+
+DR: DEMING:
+    Ah, try me again.
+
+DR. ACKOFF:
+    Do you think doctors would ever worry about geriatric p--...
+    
+END TAPE #3B
+BEGIN TAPE #4A
+
+DR. AKOFF:  
+	I Had asked you whether you thought that doctors would work on problems of the aging if they didn't themselves expect some day to age? Because the issue that we're discussing really is can you separate the producer from the consumer?
+
+DR. DEMING: 
+	This is very interesting. They're have been physicians for a long time. Some of them have gotten old. They hope to become old, and it's only recently has there been any interest in the aged, within the last, oh, 30 years... It has been going on for centuries. The interest did not come... for the aged did not come from physicians in practice, nor from the aged, but from specialists, people thinking about the aged.
+
+DR. AKOFF:  
+	Uhm-hun.
+
+DR. DEMING: 
+	Not because they get old, but as a science — contribution to knowledge.
+
+DR. AKOFF:  
+	Uhm-hum. Let me describe an experiment and then you tell me whether you think the consumer has contributed to development of the service or not. Okay?
+
+DR. DEMING: 
+    Sure. The consumer can contribute ideas if you ask him. They make choices, once they're presented to him.
+
+DR. AKOFF:  
+	Well, if he contributes an idea, he's not contributing it unless it's an idea that wasn't presented to him. If it was presented to him, it's not his contribution. The question really is can he produce an idea with respect to consumption that a producer hasn't?
+
+DR. DEMING: 
+	Nothing to stop him?
+
+DR. AKOFF:  
+	The fact...
+
+DR. DEMING: 
+	He has not done it.
+
+DR. AKOFF:  
+	Well, I'll give you an example where he has. Okay?
+    There's a very successful chain of men's stores in the Philadelphia area that has never been able to fulfill one of its major aspirations which is to compete with Brooks Brothers. You're aware... . You know what Brooks Brothers [is]... ? Right. This chain sells clothing of a quality equivalent to Brooks, but it's a discount clothing chain, so they are selling clothing about one-third under the cost of Brooks Brothers, but they do not attract Brooks Brothers customers. Okay? They had hired six marketing research outfits to find out why, and they had not succeeded. Okay?
+    They came to us at the university and asked us, "Can you help us? We want to get Brooks Brothers customers." We said, "No. We can't, but we know who can." They said, "Who?" We said, "Brooks Brothers customers." "No. No. No," they said. "We've already asked them. They've told us what they think, and we've done it, and it doesn't work.
+
+DR. DEMING: 
+	Uh-huh.
+
+DR. AKOFF:  
+	We said, "But you don't ask them. That's not the way you'll find out what people want." And we designed an exercise. We brought 18 Brooks Brothers customers in to the university who did not know who the sponsor was, and we gave 'em the following problem: Design your ideal men's store. They spent 6 hours doing that, and they reached a consensus design that was the most creative design of a retail establishment I have ever seen. And let me just show you some of the things they said. After they had completed their design, we identified who the sponsor of the research was and asked them to compare their design with the sponsor. They said, the first thing that's wrong with the sponsor, they don't understand us at all. What he tells us is you decide on what quality of suit you want, and we will sell it to you at a lower price than anybody else will. That's not our interest. Before we go out to buy a suit, we decide how much we're going to spend, and therefore we look for the highest quality for a fixed price, not the lowest price for a fixed quality.
+
+DR. DEMING: 
+	Isn't that interesting.
+
+DR. AKOFF:  
+	The producer never saw that. That was only the beginning. He said, "You arranged the store for your convenience, not ours. See. We hate to shop," they said. "We don't want to buy a suit. We wait until we need a suit, a sports coat, a raincoat, sweaters and shirts, and we out to get them all at once because we don't like buying. That means we have to go to five different departments in your store, deal with five different salesmen and five different cash registers. Why don't you organize the clothing by size, not by type of clothing?" — our convenience. "Get the salesmen off our backs! When we're ready for a salesman, give us a button we can push to call one. And by the way, we don't want salesmen, we want saleswomen in a men's store," Why? "You can't trust a man's opinion on how you look." Okay? And it went on from there.
+    Now, that company made those changes, and they get Brooks Brothers customers today. Okay?
+
+DR. DEMING: 
+	Interesting.
+
+DR. AKOFF:  
+	Yeah. So I'm a little worried when you say that the consumer doesn't contribute to the development of either products or services. He can. I don't think we've learned how to enable him to do so yet.
+
+DR. DEMING: 
+	He contributes if you ask him. He has ideas. Of course, he has.
+
+DR. AKOFF:  
+	Yeah. The same thing has been done with other systems. It has been done with super markets, for example. It's being done now with hospitals. And what the consumer comes out with on hospitals are marvelous. He points out that a hospital is arranged for the convenience of the doctor, not for the convenience of the patient. Why are all the coronary cases put together? Is that for the convenience of the patients? No. It's to minimize the distance that he doctor has to walk between the patients he calls on. What would you do if you were focused on the interests of the patient?
+
+DR. DEMING: 
+	Well, there might be some advantage there because there would be several physicians there, specialists maybe, and they can help each other. If they had to go all over the hospital, they would not be in contact with each other.
+
+DR. AKOFF:  
+	You think they are in contact with each other today?
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	Hum. That's not the evidence. For example, the average patient who goes in a hospital will be interviewed, independently and separately, by five different people who have not communicated with each other. And a typical patient will be askd on five different occasions, for example, "Are you allergic to any medicine?" He doesn't get asked once, he gets asked five times. It's precisely because there is no interaction between the doctors that a hospital ought to be reorganized. You're right. They ought to be interacting, but they don't. So we come back to the question of how you design a system to get the characteristics into it that you want. And this relates to the issue that we were talking about earlier on education. how do you educate students to think systemically? And that is, by putting them through exercises of designing systems from scratch, not improving existing systems.
+    All the exercises in a university are how to improve an existing system, but not...
+
+DR. DEMING: 
+	Interesting.
+
+DR. AKOFF:  
+	Yeah. Not how to redesign it over again...
+
+DR. DEMING: 
+	Yeah.
+
+DR. AKOFF:  
+	Can I tell you one little story about this and what a student did? We had a problem in a bank; it's a major bank, headquartered in New York City. It has 2,000 employees in the headquarters. They'd had three major thefts in 6 months amounting to 14 million dollars of loss of negotiable securities. The bank's managers wanted to know how to change the bank so as to minimize the opportunity for such theft. Okay?
+    I brought this problem to a group of my students, because we were working on it in reality. Now, people who were working on it in reality were putting television monitors in every corner; they were talking about magnetic markings on each security so that when you went by a detector it would buzz, and an inspector would ask you what right you had to carry it, and on, and on, and on.
+    I presented this to a group of students, and immediately one of them jumped up and said, "I can solve that easily." I said, "How?" He said, "Have all the employees work in the nude." Now, you know, it really would solve the problem because you wouldn't. . . if you were working in the nude, you couldn't get out with paper without it being detected. It's very easy to get out with paper when you're dressed. And I took this to the bank, and what happened was fascinating because the Vice President of Operations said, "you know, that's a marvelous idea." And he said, "Of course, we can't do it even though it would be wonderful for marketing." But he said, "We don't need them to work in the nude if we can have them in the nude just as they leave the bank because all we need to do is inspect them when they leave the bank. And another vice president said, "You can't do that!" "Why not?" "People won't allow you to inspect them in the nude when they leave the bank.
+    Question: Is there something else we can do to them while they're in the nude, when they're not detected or seen by somebody else that would prevent them carrying paper through the bank. Thirty minutes later, they had the answer.
+    What that bank did is they went to France and had three major designers design uniforms for all the employees. When the employee comes into the bank in the morning today, he goes to a locker room where he strips in the nude in privacy — he or she — and then in privacy walks through a shower room where they have the option of taking a shower or not. He goes into another locker room where they put ona complete set of clothing that's provided by the bank — marvelous set of clothing, beautiful, attractive, and more expensive than anything they can afford. That's all irrelevant. What's relevant is what happens at night.
+    When they finish the day's work, they come back to that first locker room, strip, and they have to go to the shower room where they have no choice because they're bombarded by a heavy stream of water coming in every direction. There is no way of getting paper through that room. They then dress and leave. They've had no thefts since.
+
+DR. DEMING: 
+	Hum.
+
+DR. AKOFF:  
+	We can teach students how to think about systems by giving them the opportunity to design them from scratch and then encourage their creativity.
+
+DR. DEMING: 
+	Now, what you've just said, designing from scratch, is what happened at Fordham University in the School of Business — from scratch.
+
+DR. AKOFF:  
+	How did it go?
+
+DR. DEMING: 
+	They're going to try to get great people to come and teach a week of the year — a totally new idea.
+
+DR. AKOFF:  
+	They're not going to have professors teach courses; they're gonna have resource people come in for a short period of time...
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	... and share their knowledge with the student?
+
+DR. DEMING: 
+	Yes. The School of Business will not be totally that. There might be, for example, a course in calculus. That's not the way to learn calculus.
+
+DR. AKOFF:  
+	No, it isn't... I can tell you a story about the calculus.
+
+DR. DEMING: 
+	Uhm-hum.
+
+DR. AKOFF:  
+	There was a marvelous professor at Johns Hopkins University who joined me at Case Institute by the name of Ellis Johnson, and he talked the National Science Foundation into running an experiment which he ran in the... it would be about 1954 and 5 at Case Institute of Technology; that was before it became Case Western Reserve. He took 60 students who had been accepted for admission to the Institute as Freshmen and offered them summer employment at a reasonable salary, and they almost all accepted. Each student was put in a team of five, and they were given a real problem to work on. For example, one was to improve the water system of Mayfield Heights, Ohio; they were having problems with water supply. Another was to design an ambulance system that would take care of the new expressway that was built through a portion of the city, and on and on. But every one was a real problem, and they had contact with the people responsible for doing something.
+    And I sat with Ellis Johnson one day when a group of students came in that were working on the water problem, and they said, "Dr. Johnson," they said, "we think we understand the problem and we can express it mathematically." They went to the board, and they wrote a series of equations down. They said, "The trouble is we don't know what to do with those equations. Is there some way that you can optimize this system described by these equations?" And Johnson said, "Yes. If you knew the differential calculus, you could do it." He said, "Great. Can you teach it to us?" He said, "No." They said, "What do you mean, you can't?" and he said, “What do you think I'm payin! you for?" He said, "Tf you need to learn it, go learn it." He said, "If you want some help in finding sources, I'll give you sources, but I won't teach it to you."
+    Now, Ed, at the end of that summer, those 60 students passed the first two years of mathematics by examination. . .
+
+DR. DEMING: 
+	Isn't that interesting.
+
+DR. AKOFF:  
+	... at Case Institute of Technology. Ninety-three percent of them went to graduate school as opposed to 65 percent of the normal graduates.
+
+DR. DEMING: 
+	That's interesting.
+
+DR. AKOFF:  
+	Boy, there's a lot we can do with education.
+
+DR. DEMING: 
+	Yeah. Yeah. Yeah.
+
+DR. AKOFF:  
+	What role are you playing at Fordham?
+
+DR. DEMING: 
+	None.
+
+DR. AKOFF:  
+	Oh, you must be encouraging them, aren't you?
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	Who's going to go there to talk about quality?
+
+DR. DEMING: 
+	Maybe quite a number of people, several. Masters maybe. I hope so.
+
+DR. AKOFF:  
+	Will you have a mixture of users, as well as producers?
+
+DR. DEMING: 
+	I think so. I'm not prepared to answer.
+
+DR. AKOFF:  
+	Uhm-hum. Do you think the United States could benefit by importing some of the Japanese experts?
+
+DR. DEMING: 
+	I'm not sure that's the best way to learn. Would people learn? Do people learn? Can they learn? Do they?
+
+DR. AKOFF:  
+	Well, they didn't. But at MIT, they tried that. They brought Shiba, Professor Shiba over for 2 years to teach quality. It didn't have much impact because the cultural gap was too great. He could not communicate effectively with American students. The reason was interesting. The students — I talked to the students. They said the was too dogmatic. The impression that he gave is there is only one way of doing anything, and I know what it is.
+
+DR. DEMING: 
+	Well maybe you got the wrong man. There is Dr. Yoshida at one of the California universities, the one in Dominguez Hills, would not talk that way, would not be dogmatic. If you haven't heard him lecture, you've missed something.
+
+DR. AKOFF:  
+	No. I haven't.
+
+DR. DEMING: 
+	You've got something... something in store for you.
+
+DR. AKOFF:  
+	Uh, just recently, The Harvard Business Review had a series of articles relating to the Baldridge Award in which you were quoted in a very interesting way.
+
+DR. DEMING: 
+	I also had a letter there.
+
+DR. AKOFF:  
+	That's what I mean. In which you said, essentially, that this has nothing to do with what I've been talking about. Is that a correct interpretation?
+
+DR. DEMING: 
+	It's correct. I think it would not be easy to understand when put in those words.
+
+DR. AKOFF:  
+	No. I, I've condensed it, I've caricatured what you've said.
+
+DR. DEMING: 
+	It was not my teaching.
+
+DR. AKOFF:  
+	No. Could you identify what you take to be main differences?
+
+DR. DEMING: 
+	There's such a thing as management by results which is fatal. He that manages by results is on the way down, on the way out. Sure we need good results. Manage by results, and you make things worse. That's the way the problem went to Dr. Shuhart in 1924, yeah, '24, at Western Electric in Chicago. They were managing by results — they did not call it that. Uniformity was the aim, and a noble aim it was, so that the telephone company that bought their stuff could depend on it. Anything out of order, non~ uniformity, led to action. They were honest enough and smart enough, the management was, to observe that it only made things worse. The problem went to Dr. Shuhart in the Bell Telephone Laboratories, newly formed, and the whole world knows what he did with it.
+
+DR. AKOFF:  
+	Well, the whole world doesn't, so you tell them. Tell them.
+
+DR. DEMING: 
+	No. The whole world not. You're right. The whole world does not. The whole world ought to. As I said a while ago, he invented two kinds of variation: variation from common causes, common — the same from hour to hour, lot to lot, bank to bank, people to people — and special causes, and the way to distinguish between them, an economic solution, to tell us when we have one or we have the other — control chart.
+
+DR. AKOFF:  
+	You know, that later Neiman and Pearson reformulated the two types of error, and they called them type one...
+
+DR. DEMING: 
+	Reformulated what?
+
+DR. AKOFF:  
+	Two types of error.
+
+DR. DEMING: 
+	What do yo mean by two types of error?
+
+DR. AKOFF:  
+	What they meant was one type of error was say something is true when it's actually false.
+
+DR. DEMING: 
+	That's what they said, Neiman and Pearson?
+
+DR. AKOFF:  
+	Yeah.
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF:  
+	That's what they said. And the other one was to say that something is... to fail to say that some... - Let me get it straight now.
+
+DR. DEMING: 
+	It is false when it's true.
+
+DR. AKOFF:  
+	False when it's true. The interesting thing about to me is the third type of error which was identified by a professor at Southern California which I think is more important than either one of those two, and that's the error or formulating the wrong problem.
+
+DR. DEMING: 
+	And neither one of those is worth learning, those two types of errors.
+
+DR. AKOFF:  
+	Yeah.
+
+DR. DEMING: 
+	And the solutions — test of hypotheses.
+
+DR. AKOFF:  
+	Yeah. That's all gone by the board, you know.
+
+DR. DEMING: 
+	I hope so.
+
+DR. AKOFF:  
+	It was a big thing...
+
+DR. DEMING: 
+	I'm afraid you're wrong. I wish that you were right.
+
+DR. AKOFF:  
+	Do you think it's still out there, strong?
+
+DR. DEMING: 
+	Oh, yes. Most teachers know nothing else.
+
+DR. AKOFF:  
+	Yeah. Are they still talking about the alpha, and the beta, and the. .. ?
+
+DR. DEMING: 
+	Yes.
+
+DR. AKOFF: 
+    Uniformly most powerful tests and things of that sort?
+
+DR. DEMING: 
+	Yes. Yes. Yes.
+
+DR. AKOFF:  
+	Is there any voice in statistics that is essentially systemically oriented?
+
+DR. DEMING: 
+	Yes. You were not at the meeting held in New York last week.
+
+DR. AKOFF:  
+	No, I wasn't.
+
+DR. DEMING: 
+	In fact, this Monday, Tuesday and Wednesday of this very week is what we were there for.
+
+DR. AKOFF:  
+	Oh. That's encouraging.
+
+DR. DEMING: 
+	Yes. You would have enjoyed it.
+
+DR. AKOFF:  
+	Yeah. That's great. Is it starting to come out now in transmittable form?
+
+DR. DEMING: 
+	Oh, yes, there's some papers. Yes.
+
+Q: 
+	Can I ask you to address one thing as we're running out of time here. Could you talk a little bit about maximizing (UNINTELLIGIBLE)?
+
+DR. AKOFF:  
+	Let Professor Deming respond first, and then I'll try to tell you what we do.
+
+Q:  
+	Elaborating more on joy in work and maximizing work productivity (UNINTELLIGIBLE) .
+
+DR. AKOFF:  
+	She's asking what you would do maximize the productivity of labor?
+
+DR. DEMING: 
+	Understand the system — they're part of a system, a component ina systen, extremely important part of that system. Vital! And everybody should win in the system, labor being one.
+
+DR. AKOFF:  
+	All right. I agree with that. Let more me try to be a little moreoperational. I'm reminded of two cases. One involves the largest operation of Alcoa, which is located outside of Knoxville, Tennessee. It was an installation involving three large plants, plus a lot of smaller supporting plants, originally created in 1906, unionized from the very beginning by the United Steel Workers. And at the end of World War II it was the plant in the United States which had the highest hourly wage rate of any plant in the United States. The reason was that it had been doing war production throughout the entire war and was being compensated on a cost-plus basis. And therefore, they had no objection to increasing the compensation of labor because it increased their profit.
+    But at the end of the war, they couldn't compete commercially when they had to convert to the commercial market because the costs were too high, so they tried to get concessions back from labor, and warfare broke out. Now, I don't... I use that term advisedly. In 1978, a number of people were killed in a wildcat strike and a part of the factory was blown up. It was violent! So it's not surprising that in 1979 corporate headquarters decided to close that installation. They brought in a new manager to oversee that and gave him 5 years. They said, "December the 31st, 1984, we want you to have this plant shut down, and we want the minimum amount of political uprising and discontent in the community effected. That's your job." He happened to be somebody I knew well because we had worked together when he was in Australia. And he came and talked to me, and he described his job as "officiating at a wake which was to last for 5 years." He said, "That's not very interesting." He said, "What would be interesting is can I convert them so they'll keep the plant open?" He said, "The problem is I have no money. I cannot replace any equipment. I can't do any preventative maintenance. All I can do is corrective maintenance, with a very limited budget." He said, "If I had money, I would [have] automated Hell out of this plant, get rid of a large part of the work force, and I could make it pay." I said, "How do you know that?" He said, "What do you mean, how do I know it?" I said, "Well, how do you know that that's so." He said, "Well, I believe it." TI said, "Well, that's different. That's not knowing."
+    So I suggested that we do a simulation of the plant under the assumption that he had all the money he wanted and he could automate Hell out of it. He took the top management of the plant, they spent about 6 months designing the most advanced aluminum production facility in the world. It fortunately could be simulated on a large computer — we did — and it still lost money. And the reason was clear. It was labor and management relations. Labor was so unproductive, relative to the price, that even with complete automation, going from 6,200 to 1,500 didn't pay. And we said, "You've gotta do something about labor."
+    Well, it's a long story, but what he ultimately did was empower the work force. He said, "You people know more about the work shop than we do, so you tell us what to do down there." And I can give you all sorts of examples. There are two workers who made a change at the end of a rolling mill that saved the company two-and-a-quarter million dollars after taxes. They did it in 15 minutes.
+
+DR. DEMING: 
+	Oh! ~
+
+DR. AKOFF:  
+	The day after they did this, I was visiting, and I went down to see them. And I said, "You know, it's marvelous what you did." And boy, they puffed up, they were so proud. These were men in their 50's. They had been working in the plant for 25 years. And then I said, "How long have you known about this?" And they both looked down. They didn't answer. "Come on. Come on. Tell me the truth. I won't tell anybody." And one of them looked up, and he mumbled, "Fifteen years." I said, "How come you never said anything about it before?" And I'll never forget his answer, because he taught me something. He said, "Those sons of bitches never asked me before." And the answer to the question of how we increase the productivity of labor is to start asking ‘em. You get incredible increases.
+    There is a case that's in the literature. At Timkin Roller Bearing Plant in Ohio of 2,000 women who inspected ball bearings whose productivity went down by over 20 percent over a 5-year period, and the manager couldn't get it up again. He tried ever conceivable means.
+    But a young man from Ohio State who was working there discovered that the women who were doing the inspection hated the company... They took out their hate by low productivity. Yau want to know why do they hate the company. Turned out 85% of them had children in school. They resented the fact that they weren't home when the kids returned from school. They had tried to change the working hours and the company wouldn't do it, okay? He talked to management into making a minor change. They defined a fair day's work. It was 20% higher than what they were doing. They told the women you can go home whenever you finish it. The rate of inspection increased by 250% and the error rate went down to practically [zero.]
+
+END OF TAPE
